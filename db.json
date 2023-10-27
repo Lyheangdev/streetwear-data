@@ -1,0 +1,23 @@
+[
+  {
+    id : 0001,
+    type : 'type1',
+    title : 'Flip Flop',
+    price : 8,
+    desc : 'Good from Japan'
+  },
+  {
+    id : 0002,
+    type : 'type1',
+    title : 'Flip Flop',
+    price : 8,
+    desc : 'Good from Japan'
+  },
+  {
+    id : 0003,
+    type : 'type1',
+    title : 'Flip Flop',
+    price : 8,
+    desc : 'Good from Japan'
+  }
+]
