@@ -1,24 +1,24 @@
 [
   {
-    "id" : 0001,
-    "type" : 'type1',
-    "title" : 'Flip Flop',
-    "price" : 8,
-    "desc" : 'Good from Japan'
+    "id" : "0001",
+    "type" : "type1",
+    "title" : "Flip Flop",
+    "price" : "8$",
+    "desc" : "Good from Japan"
   },
   {
-    "id" : 0002,
-    "type" : 'type2',
-    "title" : 'Flip Flop',
-    "price" : 10,
-    "desc" : 'Good from Tailand'
+    "id" : "0002",
+    "type" : "type2",
+    "title" : "Flip Flop",
+    "price" : "10$",
+    "desc" : "Good from Tailand"
   },
   {
-    "id" : 0003,
-    "type" : 'type3',
-    "title" : 'Flip Flop',
-    "price" : 12,
-    "desc" : 'Good from Lao'
+    "id" : "0003",
+    "type" : "type3",
+    "title" : "Flip Flop",
+    "price" : "12$",
+    "desc" : "Good from Lao"
   },
   
 ]
